@@ -4,10 +4,10 @@
 
 ## Instructions
 
-    # Fork and clone down the repo
-    # run `rake db:migrate`
-    # run `rake db:seed`
-    # checkout all the files before you start
+    - Fork and clone down the repo
+    - run `rake db:migrate`
+    - run `rake db:seed`
+    - checkout all the files before you start
 
 Create CRUD operations
 
@@ -19,5 +19,5 @@ Create CRUD operations
 
 ## How to submit?
 
-    # Go to Vidhi or Scott, give high-five and show your code
+    - Go to Vidhi or Scott, give high-five and show your code
 
