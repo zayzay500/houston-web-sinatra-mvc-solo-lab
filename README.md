@@ -1,6 +1,6 @@
 # Sinatra MVC Lab
 
-<img src="https://media1.tenor.com/images/eaccdc8a3ed89ae8385579ea03223417/tenor.gif" hspace="10" align="right" width="300">
+<img src="https://media.giphy.com/media/rD8R00QOKwfxC/giphy.gif" hspace="10" align="center" width="300">
 
 ## Instructions
 - Fork and clone down the repo
