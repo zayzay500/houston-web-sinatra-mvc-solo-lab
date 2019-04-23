@@ -1,6 +1,6 @@
 # Sinatra MVC Lab
 
-<img src="https://media.giphy.com/media/rD8R00QOKwfxC/giphy.gif" hspace="10" align="center" width="300">
+<img src="https://media.giphy.com/media/rD8R00QOKwfxC/giphy.gif" hspace="10" align="center" width="500">
 
 ## Instructions
 - Fork and clone down the repo
