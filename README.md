@@ -17,5 +17,5 @@ Create CRUD operations
 5. Delete an exsiting puppy
 
 ## How to submit?
-- Go to Vidhi, Raul or Steven and give a high-five and show your code
+- Go to your teachers, give a high-five, and show your code
 
