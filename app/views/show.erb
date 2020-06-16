@@ -1,0 +1,9 @@
+<h1>Meet <%= @puppy.name%>!</h1>
+
+<p>Hi, I'm a <%= @puppy.breed%>. Can I have a treat?</p>
+
+<form method="post" action="/puppies/<%=@puppy.id%>">
+<input type="hidden" name="_method" value="delete">
+
+<input type="submit" value="Delete Puppy :(">
+</form>

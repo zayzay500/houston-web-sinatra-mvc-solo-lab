@@ -1,0 +1,14 @@
+<h1>Look at All the Puppies!</h1>
+
+<ul>
+<% Puppy.all.each do |puppy|%>
+    <li>
+        <p>Name: 
+            <a href='/puppies/<%= puppy.id%>'>
+                <%= puppy.name%>
+            </a>
+        </p>
+        <p>Breed: <%= puppy.breed%></p>
+    </li>
+<%end%>
+</ul>
